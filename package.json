@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A real time online multiplayer game.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1",
+    "skeleton": "^0.1.2",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farhana Hossain",
+  "license": "ISC"
+}
